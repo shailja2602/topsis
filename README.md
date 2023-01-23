@@ -1,8 +1,6 @@
 # TOPSIS
 
 
-Submitted By: **Abhishek Gandhi 102003364**
-
 ***
 
 ## What is TOPSIS?
@@ -16,14 +14,14 @@ and greatest distance from the negative-ideal solution.
 
 ## How to install this package:
 ```
->> pip install topsis-abhishek-102003364
+>> pip install topsis
 ```
 
 
 ### In Command Prompt
 ```
 >> python <program.py> <InputDataFile> <Weights> <Impacts> <ResultFileName>
->> python 102003364.py data.csv "1,1,1,1" "+,+,-,+" result.csv
+>> python input.py data.csv "1,1,1,1" "+,+,-,+" result.csv
 ```
 
 ## Input file (data.csv)
