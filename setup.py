@@ -18,7 +18,7 @@ setup(
     author='Shailja Choudhary',
     author_email='shailjachoudhary02@gmail.com',
     url='https://github.com/Abhishek3450/topsis-package',
-    download_url='https://github.com/Abhishek3450/topsis-package/archive/refs/tags/py.tar.gz',
+    download_url='https://github.com/shailja2602/topsis/archive/refs/tags/py.tar.gz',
     keywords=['topsis', 'multiple criteria decision'],
     install_requires=[
         'tabulate',
