@@ -8,15 +8,15 @@ def readme():
 
 
 setup(
-    name='Topsis-Abhishek-102003364',
-    packages=['Topsis-Abhishek-102003364'],
+    name='Topsis',
+    packages=['Topsis'],
     version='0.1',
     license='MIT',
     description='This package can be used for implementation of Multiple criteria decision making using Topsis Algorithm. This is a python library for dealing with Multi-Criteria Decision Making (MCDM) problems by using techniques for order of preference by similarity to ideal solution (TOPSIS).',
     long_description=readme(),
     long_description_content_type="text/markdown",
-    author='Abhishek Gandhi',
-    author_email='abhishekgandhi989@gmail.com',
+    author='Shailja Choudhary',
+    author_email='shailjachoudhary02@gmail.com',
     url='https://github.com/Abhishek3450/topsis-package',
     download_url='https://github.com/Abhishek3450/topsis-package/archive/refs/tags/py.tar.gz',
     keywords=['topsis', 'multiple criteria decision'],
