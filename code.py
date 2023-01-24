@@ -114,7 +114,7 @@ def topsis(filename, weights, impacts, resultFileName):
     # PRINTING TO THE CONSOLE USING TABULATE PACKAGE
     print(tabulate(matrix, headers = matrix.columns))
 
-def main() :
+def ts() :
     if len(sys.argv) == 5 :
         # filename
         filename = sys.argv[1].lower()
@@ -146,6 +146,6 @@ def main() :
 # MAIN FUNCTION
 # if everything is fine, it will call the topsis() function,
 # otherwise will display appropriate error
-main()
+ts()
 
 
